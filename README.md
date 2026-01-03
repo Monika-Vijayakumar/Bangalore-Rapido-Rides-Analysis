@@ -8,7 +8,7 @@
 
 ## Project Overview
 This project analyzes Bangalore Rapido Rides data to uncover ride patterns, demand trends, and actionable insights.  
-The aim is to help Rapido optimize ride services by understanding ride behaviors, fares, routes, and customer preferences.
+The aim is to help Rapido optimize ride services by understanding ride behaviors, fares, types pf services, payment methods, and customer preferences.
 
 ---
 
